@@ -10,7 +10,7 @@
 
 4. What questions remain in your mind after reading this section?
 
-**A: Since security is a major currently a major concern with all the cyer attacks. I wonder how cloud computing will play a role in security."
+**A: Since security is a major currently a major concern with all the cyer attacks. I wonder how cloud computing will play a role in security."**
 
 #1.1: What is Information Technology (IT)?
 Cloud computing is a subset of information technology that utilizes all of the same terminology as it relates to governance, operations, software, hardware, and infrastructure as traditional information technology.
