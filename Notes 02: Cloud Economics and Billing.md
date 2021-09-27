@@ -1,3 +1,11 @@
+1. Summarize a few key points made in the readings or videos.
+2. Identify two quotes that were made, that you found interesting.
+If computers of the kind I have advocated become the computers of the future, then computing may someday be organized as a public utility just as the telephone system is a public utility... The computer utility could become the basis of a new and important industry. - John McCarthy
+As of now, computer networks are still in their infancy, but as they grow up and become sophisticated, we will probably see the spread of 'computer utilities' - Leonard Kleinrock
+4. What new facts did you learn from this section?
+I learned about the origins of cloud computing and the different types of cloud computing such as IaaS, PaaS, and SaaS.
+6. What questions remain in your mind after reading this section?
+
 # 2.1 A Brief History
 * The idea of cloud traces back to the origins of utility computing, a concept that computer scientist John McCarthy publicly proposed in 1961
   * "If computers of the kind I have advocated become the computers of the future, then computing may someday be organized as a public utility just as the telephone system is a public utility... The computer utility could become the basis of a new and important industry."
