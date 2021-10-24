@@ -18,6 +18,9 @@
 * Tests that were run in the staging environment took a couple of hours to complete, and even then they were flaky enough to make their results less than useful.
 * Developers had their own blade servers to work on, rather than virtual machines, but the blade servers weren’t powerful enough to run the automated test suites to completion.
 
+## The Value of The Story
+* Effective DevOps contains case studies and stories from both teams and individuals.
+
 3. Identify two quotes that were made, that you found interesting.
 4. What new facts did you learn from this section?
 5. What questions remain in your mind after reading this section?
