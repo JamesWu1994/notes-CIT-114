@@ -10,6 +10,13 @@
 ## A Snapshot of Devops Culture
 * A new engineer at Etsy starts her first day with a laptop and a development virtual machine (VM) already set up with the appropriate accounts for access and authorization, the most common GitHub repositories cloned, aliases and shortcuts to relevant tools precreated, and a guide with new hire information and links to other company resources on her desktop.
 * A current employee will pair with the new employee to walk through what testing and development processes she will use in her day-to-day work. She starts by writing code on her local development VM, which is set up with configuration management to be nearly identical to the live production environment.
+* In Etsy’s high-trust, blameless environment, people are given the trust and authority to decide whether a code review is necessary.
+
+## The Evolution of Culture
+* This story of Etsy today is in stark contrast to how things were several years ago with a less transparent and more error-prone deployment process that took close to four hours.
+* Developers had their own blade servers to work on, rather than virtual machines, but the blade servers weren’t powerful enough to run the automated test suites to completion.
+* Tests that were run in the staging environment took a couple of hours to complete, and even then they were flaky enough to make their results less than useful.
+* Developers had their own blade servers to work on, rather than virtual machines, but the blade servers weren’t powerful enough to run the automated test suites to completion.
 
 3. Identify two quotes that were made, that you found interesting.
 4. What new facts did you learn from this section?
