@@ -22,5 +22,8 @@
 * Effective DevOps contains case studies and stories from both teams and individuals.
 
 3. Identify two quotes that were made, that you found interesting.
-4. What new facts did you learn from this section?
-5. What questions remain in your mind after reading this section?
+A key takeaway from this event for me was the value of failure.
+It is one thing to talk about how something should work in theory, but there is often a great deal of difference between how something should work in theory and how things turn out in practice.
+
+5. What new facts did you learn from this section?
+6. What questions remain in your mind after reading this section?
