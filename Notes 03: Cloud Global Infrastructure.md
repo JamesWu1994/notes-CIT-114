@@ -53,6 +53,78 @@
 * In the beginning, the developer was the operator.
 * When World War II broke out, the United States government put out a call for math majors to become “computers,” a job in which they were responsible for calculating ballistics firing tables for the war effort.
 
+## The Advent of Software Engineering
+* In 1961, President John F. Kennedy set the challenge that within the decade the United States would land a person on the moon, and return them safely to Earth.
+* NASA enlisted Margaret Hamilton, a mathematician at the Massachusetts Institute of Technology (MIT) to write the onboard flight software.
+* In her pursuit of writing this complex software, Hamilton is credited with coining the term software engineering.
+* She also created the concept of priority displays, software that alerts astronauts to information that requires their attention in real time.
+* She instituted a set of requirement gathering that added quality assurance to the list of software engineering concerns, which included:
+  * debugging all individual components;
+  * testing individual components prior to assembly; and
+  * integration testing.
+* In 1969, during the Apollo 11 mission, the lunar module guidance computer software was tasked with too many calculations for its limited capacity.
+* Hamilton’s team had programmed the software such that it could be manually overridden, allowing Neil Armstrong to step in and pilot the lunar module using manual controls.
+* The freedom and trust that the management team afforded the team of engineers working on the onboard flight software, as well as the mutual respect between team members, led to software that facilitated one of humankind’s great leaps in technology as Neil Armstrong stepped on the moon.
+
+### THE PROBLEMS OF SOFTWARE
+* Space flight was not the only area in which software was becoming critical in the 1960s.
+* As hardware became more readily available, people became more concerned about the impending complexity of software that did not follow standards across other engineering disciplines.
+* The growth rate of systems and the emerging dependence upon them were alarming.
+* In 1967, the NATO Science Committee, comprising scientists across countries and industries, held discussions to assess the state of software engineering.
+* A Study Group on Computer Science was formed in the fall of 1967, whose goal was to focus attention on the problems of software.
+* NATO Software Engineering Conference of 1968, key problems with software engineering were identified, including:
+  * defining and measuring success;
+  * building complex systems requiring large investment and unknown feasibility;
+  * producing systems on schedule and to specification, and;
+  * putting economic pressures on manufacturers to build specific products.
+
+## The Advent of Proprietary Software and Standardization
+* Until 1964, the practice was to build computers that were specific and targeted to customer requirements.
+* In 1964, International Business Machines (IBM) announced a family of computers known as the System/360—computers designed to support a wide range of utility from small to large and for commercial and scientific purposes.
+* The System/360 became the dominant mainframe computer, providing customers the flexibility to start small and grow computing resources as needed.
+* Up until the late 1960s, computers were leased rather than bought outright.
+* In 1969, faced with a US antitrust lawsuit, IBM again impacted the industry by decoupling the software and hardware of their product, charging separately for the software associated with their mainframe hardware.
+* This changed how software was viewed; software had suddenly acquired significant monetary value in and of itself and was not provided openly.
+
+## The Age of the Network
+* In 1979, a worldwide distributed discussion platform called Usenet was started by Tom Truscott and Jim Ellis, then students at Duke University.
+* Usenet started out as a simple shell script that would automatically call different computers, search for changes in files on those computers, and copy changes from one computer to another using UUCP (Unix-to-Unix copy, a suite of programs allowing for file transfer and remote command execution between computers).
+* Ellis gave a talk on the “Invitation to a General Access UNIX Network”3 at a Unix users group known as USENIX.
+* This was one of the first ways to communicate and share knowledge across organizations with computers, and its use grew rapidly.
+* While this tool started to facilitate the sharing of knowledge across universities and corporations, this was also a time when the details of how companies were run were considered part of their “secret sauce.”
+* Talking about solving problems outside of the company was not done, because such knowledge was viewed as a competitive advantage.
+* This stymied a great deal of collaboration and limited the effectiveness of the communication channels that were available.
+* Increasingly complex systems in turn led to the need for specialization of skills and role proliferation.
+* This situation created the institutional Tower of Babel, with the different silos all speaking different languages due to differing concerns.
+* System administrators borrowed the idea of “root cause analysis” from total quality management (TQM).
+* This led in part to additional attention and effort toward minimizing risk. 
+
+## The Beginnings of a Global Community
+* As interconnected networks allowed programmers and IT practitioners to share their ideas online, people began looking for ways to share their ideas in person as well. 
+* One of the biggest worldwide user groups was DECUS, the Digital Equipment Computer Users’ Society, which was founded in 1961 with members consisting mostly of programmers who wrote code for or maintained DEC computer equipment.
+* Employees were strongly discouraged or even explicitly forbidden from sharing knowledge at industry conferences to try to maintain this sort of competitive advantage.
+* This is in stark contrast to more recent developments, where communities and conferences are growing around knowledge sharing and cross-collaboration between companies.
+
+### TRADE SECRETS AND PROPRIETARY INFORMATION
+* Information that is not generally known to the public that is sufficiently secret to confer economic or business advantage is considered a trade secret.
+* Information a company possesses, owns, or holds exclusive rights to is considered proprietary. 
+* Ex: software, processes, methods, salary structure, organizational structure and customer lists.
+* All trade secrets are proprietary; not all proprietary information is secret.
+
+## The Age of Applications and the Web
+* An early example of successful cooperation across organizational boundaries, the very popular Apache HTTP Server was released in 1995.
+* Based on the public domain NCSA HTTP daemon developed by Robert McCool, an undergraduate at the University of Illinois at Urbana-Champaign, the modular Apache software enabled anyone to quickly deploy a web server with minimal configuration.
+* This marked the beginning of a trend toward this and other open source solutions.
+* Open source software, with licenses that allow users to read, modify, and distribute its source code, began to compete with proprietary, closed source solution.
+* Combined with the availability of various distributions of the Linux operating system and the growth in popularity of scripting languages such as PHP and Perl, the open source movement led to the proliferation of the LAMP stack (most commonly Linux, Apache, MySQL, and PHP) as a solution for building web applications.
+* It was a time of angst and frustration for both system administrators and computer programmers.
+* In 1992, Simon Travaglia started posting a series on Usenet called The Bastard Operator From Hell (BOFH) that described a rogue sysadmin who would take out his frustration and anger on the users of the system.
+* Toxic operations environments led some individuals in this field to view that rogue sysadmin as a hero and emulate his behaviors, often to the detriment of others around them.
+* In development, there was a culture of “it’s critical to get these changes out” and “I don’t want to know how to do that because I’ll get stuck doing it.” 
+
+## The Growth of Software Development Methodologies
+* In 2001, an invitation to discuss software development went out to people interested and active in the Extreme Programming (XP) community and others within the field. XP was a form of Agile development that was designed to be more responsive to changing requirements than previous development software methodologies, known for short release cycles, extensive testing, and pair programming. In response to this invitation, 17 software engineers got together in Snowbird, Utah.
+
 3. Identify two quotes that were made, that you found interesting.
 * "A key takeaway from this event for me was the value of failure."
 * "It is one thing to talk about how something should work in theory, but there is often a great deal of difference between how something should work in theory and how things turn out in practice."
