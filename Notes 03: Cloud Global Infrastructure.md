@@ -124,10 +124,41 @@
 
 ## The Growth of Software Development Methodologies
 * In 2001, an invitation to discuss software development went out to people interested and active in the Extreme Programming (XP) community and others within the field. XP was a form of Agile development that was designed to be more responsive to changing requirements than previous development software methodologies, known for short release cycles, extensive testing, and pair programming. In response to this invitation, 17 software engineers got together in Snowbird, Utah.
+* They summarized their shared common values to capture the adaptiveness and response to change that they wanted to see in development with an explicit emphasis on human factors. This Agile Manifesto was the rallying cry that started the Agile movement.
+* In 2004, Alistair Cockburn, a software developer who was one of the coauthors of the Agile Manifesto, described Crystal Clear,5 a software development methodology for small teams based on his 10 years of research with successful teams. It described three common properties:
+ * frequent delivery of usable code, moving toward smaller, more frequent deployments rather than large, infrequent ones;
+ * reflective improvement, or using reflections on what worked well and what worked poorly in previous work to help guide future work; and
+ * osmotic communication between developers—the idea that if developers are in the same room, information will drift through the background to be picked up informally, as by osmosis.
+
+## Open Source Software, Proprietary Services
+* Instead of being restricted to one hardware vendor and whatever operating system and proprietary software would run on that hardware, developers were now able to pick and choose which tools and technologies they wanted to use.
+* As software, especially web software, became more commoditized, it became at once both more and less valuable, being less exclusive and more commonplace, but with software developers being highly paid and widely sought after.
+* In 2006, Amazon.com, Inc., an ecommerce company that until then had mostly been known as a website selling books and other goods to consumers, launched two services, Amazon Elastic Compute Cloud (EC2) and Amazon Simple Storage Service (S3), a first foray into providing virtualized compute instances and storage through a proprietary service.
+* This allowed individuals to spin up compute resources quickly without a large upfront expenditure of hardware, and request more as needed.
+* As with the introduction of the System/360, the service was quickly adopted, becoming the de facto standard due to its ease of use, low entry cost, and flexibility.
+* Twitter, an online social networking service, was introduced to the world in 2006.
+* At first it seemed very much like a tool for people wanting to share information in an abbreviated format, for short attention spans or for celebrities to reach out to fans.
+* In 2007, however, its usage skyrocketed thanks to the South by Southwest Interactive (SXSW) conference streaming live tweets about the conference on screens in the hallways.
+
+## Agile Infrastructure
+* At the Agile 2008 conference in Toronto, system administrator and IT consultant Patrick Debois spoke about incorporating Scrum into operations with his talk, “Agile Operations and Infrastructure: How Infra-gile are You?” Patrick worked with development and operations teams on a project to test data center migration. In his work he might be doing development one day and fighting fires with the operations team the next; this context switching began to take a toll on him. Indeed, switching between even two tasks instead of focusing on just one can cause a nearly 20 percent drop in productivity due to the overhead of context switching.
+
+## The Beginning of devopsdays
+* Pris Nasrat, at the time a lead systems integrator at the Guardian, tweeted in reply, “Why not organize your own Velocity event in Belgium?” Inspired, Patrick did almost exactly that, creating a local conference that would allow for developers, system administrators, toolsmiths, and other people working in those fields to come together. In October of that year, the first devopsdays conference took place in Ghent. 
+* The conference grew and spread as individuals started up new local devopsdays events across the world. With the real-time communication made available by Twitter, the hallway track never ended and #devops took on a life of its own.
+
+## The Current State of Devops
+* The 2015 State of Devops Report, published by Puppet, found that companies that are doing devops are outperforming those that aren’t.
+
+## The Four Pillars of Effective Devops
+* Collaboration
+* Affinity
+* Tools
+* Scaling
 
 3. Identify two quotes that were made, that you found interesting.
 * "A key takeaway from this event for me was the value of failure."
 * "It is one thing to talk about how something should work in theory, but there is often a great deal of difference between how something should work in theory and how things turn out in practice."
 
 5. What new facts did you learn from this section?
-6. What questions remain in your mind after reading this section?
+* This chapter opened my eyes to the effectiveness of DevOps.
