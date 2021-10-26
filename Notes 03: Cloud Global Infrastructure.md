@@ -150,6 +150,8 @@
 ## The Current State of Devops
 * The 2015 State of Devops Report, published by Puppet, found that companies that are doing devops are outperforming those that aren’t.
 
+# Chapter 6. The Four Pillars of Effective Devops
+
 ## The Four Pillars of Effective Devops
 * Collaboration
 * Affinity
