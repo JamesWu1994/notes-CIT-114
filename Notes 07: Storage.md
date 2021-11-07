@@ -27,3 +27,6 @@ The network layer provides the functional and procedural means of transferring v
 The data link layer provides node-to-node data transfer—a link between two directly connected nodes
   * **Layer 1 - Physical** -
 Responsible for the transmission and reception of unstructured raw data between a device and a physical transmission medium.
+Protocol
+## Protocol
+* Is the set of rules or algorithms which define the way how two entities can communicate across the network and there exists different protocol defined at each layer of OSI model.
