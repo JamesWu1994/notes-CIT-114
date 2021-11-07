@@ -17,13 +17,13 @@
 It includes:
   * **Layer 7 - Application** - The application layer is the OSI layer closest to the end user, which means both the OSI application layer and the user interact directly with the software application.
   * **Layer 6 - Presentation** - The presentation layer establishes context between application-layer entities, in which the application-layer entities may use different syntax and semantics if the presentation service provides a mapping between them.
-  * **Layer 5 - Session**
+  * **Layer 5 - Session** -
 The session layer controls the dialogues (connections) between computers. It establishes, manages and terminates the connections between the local and remote application.
-  * **Layer 4 - Transport**
+  * **Layer 4 - Transport** -
 The transport layer provides the functional and procedural means of transferring variable-length data sequences from a source to a destination host, while maintaining the quality of service functions.
-  * **Layer 3 - Network**
+  * **Layer 3 - Network** -
 The network layer provides the functional and procedural means of transferring variable length data sequences (called packets) from one node to another connected in "different networks".
-  * **Layer 2 - Data Link**
+  * **Layer 2 - Data Link** -
 The data link layer provides node-to-node data transfer—a link between two directly connected nodes
-  * **Layer 1 - Physical**
+  * **Layer 1 - Physical** -
 Responsible for the transmission and reception of unstructured raw data between a device and a physical transmission medium.
