@@ -30,3 +30,25 @@ Responsible for the transmission and reception of unstructured raw data between 
 Protocol
 ## Protocol
 * Is the set of rules or algorithms which define the way how two entities can communicate across the network and there exists different protocol defined at each layer of OSI model.
+
+## Unique Identifiers of Network
+* **Host name** -Each device in the network is associated with a unique device name known as Hostname.
+
+## IP Address (Internet Protocol address)
+* Also, know as Logical Address, is the network address of the system across the network.
+* To identify each device in the world-wide-web, Internet Assigned Numbers Authority (IANA) assigns IPv4 (Version 4) address as a unique identifier for each device on the Internet.
+* However there is also an IPv6 (Version 6) scheme available that has more addresses available.
+* Length of the IPv4 address is 32-bits. (Hence we have 2^32 IP addresses available.)
+
+## Classless Inter-Domain Routing (CIDR)
+
+The CIDR address is expressed as follows:
+
+* An IP address (which is the first address of the network)
+* Next, a slash character (/)
+* Finally, a number that tells you how many bits of the routing prefix must be fixed or allocated for the network identifier
+
+There are two special cases:
+
+* Fixed IP addresses, in which every bit is fixed, represent a single IP address (for example, 192.0.2.0/32). This type of address is helpful when you want to set up a firewall rule and give access to a specific host.
+* The internet, in which every bit is flexible, is represented as 0.0.0.0/0
