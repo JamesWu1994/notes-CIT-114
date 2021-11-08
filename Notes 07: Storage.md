@@ -52,3 +52,59 @@ There are two special cases:
 
 * Fixed IP addresses, in which every bit is fixed, represent a single IP address (for example, 192.0.2.0/32). This type of address is helpful when you want to set up a firewall rule and give access to a specific host.
 * The internet, in which every bit is flexible, is represented as 0.0.0.0/0
+
+## MAC Address (Media Access Control address)
+* Also known as physical address, is the unique identifier of each host and is associated with the NIC (Network Interface Card).
+* MAC address is assigned to the NIC at the time of manufacturing.
+* Length of the MAC address is : 12-digit/ 6 bytes/ 48 bits
+
+## Port
+
+* Port can be referred to as a logical channel through which data can be sent/received to an application.
+* Any host may have multiple applications running, and each of this application is identified using the port number on which they are running on.
+
+## Socket
+* The unique combination of IP address and Port number together are termed as Socket.
+
+## DNS Server
+* DNS stands for Domain Name System.
+* DNS is basically a server which translates web addresses or URL (ex: www.google.com)
+
+## ARP
+* ARP stands for Address Resolution Protocol.
+* It is used to convert the IP address to its corresponding Physical Address(i.e.MAC Address).
+* ARP is used by the Data Link Layer to identify the MAC address of the Receiver’s machine.
+
+## RARP
+* RARP stands for Reverse Address Resolution Protocol.
+* As the name suggests, it provides the IP address of the device given a physical address as input.
+* But RARP has become obsolete since the time DHCP has come into the picture.
+
+## The Internet
+* In simplest words, it is a global network of smaller networks interconnected using communication protocols that are standardized.
+* The Internet standards describe a framework known as the Internet protocol suite.
+* This model divides methods into a layered system of protocols.
+* These layers are as follows:
+ * Application layer (highest) — concerned with the data(URL, type, etc), where HTTP, HTTPS, etc comes in.
+ * Transport layer — responsible for end-to-end communication over a network.
+ * Network layer — provides a data route.
+
+## The World Wide Web
+* The web a subset of the internet. It’s a system of Internet servers that support specially formatted documents. The documents are formatted in a markup language called HTML(that supports links, multimedia, etc). These documents are interlinked using hypertext links and are accessible via the Internet.
+* To link hypertext to the Internet, we need:
+
+ * The markup language, i.e., HTML.
+ * The transfer protocol, e.g., HTTP.
+ * Uniform Resource Locator (URL), the address of the resource.
+ * We access the web using web browsers.
+
+## URI
+* URI stands for ‘Uniform Resource Identifier’, it’s like an address providing a unique global identifier to a resource on the Web. Uniform Resource Locator (URL) is the most commonly used form of a URI.
+
+* The URL consists mainly of two parts:
+
+ * The protocol used in the transfer, e.g., HTTP.
+ * The domain name.
+
+# 7.03 Introduction to IP Addresses & Binary Math
+## IP addresses and DNS
