@@ -89,3 +89,20 @@ deletion.
 * Integrated with many AWS services
 * Eventually Consistent
 * Free to use
+
+# 6.08 Essential Elements of IAM
+
+* An IAM user is a person or application that is defined in an AWS account, and that must make API calls to AWS products. Each user must have a unique name (with no spaces in the name) within the AWS account, and a set of security credentials that is not shared with other users.
+* Programmatic access via the AWS Command Line Interface (CLI) or AWS Software Development Kit (SDK)
+* AWS Management Console access via IAM were a 12 digit Account ID, IAM Username, and IAM Password are assigned with optional multi-factor authentication (MFA).
+
+## IAM Group
+* A group can contain many users, and a user can belong to multiple groups.
+* Groups cannot be nested. A group can contain only users, and a group cannot contain other groups.
+* There is no default group that automatically includes all users in the AWS account. If you want to have a group with all account users in it, you need to create the group and add each new user to it.
+* An IAM policy is a document that defines permissions to determine what users can do in the AWS account. A policy typically grants access to specific resources and specifies what the user can do with those resources. Policies can also explicitly deny access.
+* There are two types of policies, identity-based policies and resource-based policies. Identity-based policies are permissions policies that you can attach to a principal (or identity) such as an IAM user, role, or group. These policies control what actions that identity can perform, on which resources, and under what conditions. Resource-based policies are JSON policy documents that you attach to a resource, such as an S3 bucket. These policies control what actions a specified principal can perform on that resource, and under what conditions.
+* An IAM role is a tool for granting temporary access to specific AWS resources in an AWS account.
+
+## 6.09 Four Ways to use IAM
+* AWS management console is a browser-based interface to manage IAM and AWS resources
